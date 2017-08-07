@@ -1,0 +1,84 @@
+.lockbp-header{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.lockbp-header-title{
+	font-size: 23px;
+	display: inline;
+	vertical-align: top;
+}
+.lockbp-items{
+	border: 1px solid #000;
+	border-radius: 10px;
+	background-color: #fff;
+	margin-bottom: 10px;
+	width: 80%;
+	padding: 15px;
+}
+.lockbp-should-display{
+	border: 1px solid #000;
+	border-radius: 10px;
+	background-color: #fff;
+	margin-bottom: 10px;
+	width: 80%;
+	padding: 15px;
+}
+.lockbp-items-title, .lockbp-should-display-title{
+	margin-top: 0px;
+	font-size: 16px;
+}
+
+.lockbp-elements > textarea{
+	width: 40%;
+}
+.lockbp-elements > select{
+	width: 40%;
+}
+.lockbp-item{
+	border: 1px solid #000;
+	border-radius: 10px;
+	background-color: #fff;
+	margin-bottom: 10px;
+	width: 80%;
+	padding: 15px;
+}
+.lockbp-bp-components-title, .lockbp-wp-cpt-title{
+	margin-top: 0px;
+	font-size: 12px;
+	font-weight: bold;
+}
+.lockbp-wp-pages-title{
+	margin-top: 0px;
+	font-size: 12px;
+	font-weight: bold;
+	float: left;
+}
+.lockbp-cpt-not-found, .lockbp-page-not-found, .lockbp-bp-not-found{
+	color: red;
+}
+#lockbp-cpt > select{
+	width: 50%;
+	height: 150px;
+}
+#lockbp-wp-pages > select{
+	width: 50%;
+	height: 150px;
+}
+#lockbp-bp-components > select{
+	width: 50%;
+	height: 150px;
+}
+.lockbp-wp-pages-notice{
+	color: red;
+	font-size: 12px;
+	display: inline-block;
+	float: left;
+	margin-top: 0px;
+	padding-left: 10px;
+}
+.clear{
+	clear: both;
+}
+.lockbp-description{
+	font-weight: 100;
+}
